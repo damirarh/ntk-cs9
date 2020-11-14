@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NtkCs9.TopLevel": {
+      "commandName": "Project",
+      "commandLineArgs": "sample.txt"
+    }
+  }
+}
